@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**Grsn-r/grsn-r** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div  background-color= "#ffa500" align= "center">
+<h1 >Hi I´m Gerson 👋</h1>
+  <p>🌱I´m courrently learning **Web development full-stack**</p>
+</div>
+<br>
+<h2>Languages and tools</h2>
+<div display="flex">
+<img src="https://github.com/Grsn-r/new-repo/blob/main/html5.png" alt="html5" height="50px"> 
+<img src="https://github.com/Grsn-r/new-repo/blob/main/css-3.png" alt="css3" height="50px">
+<img src="https://github.com/Grsn-r/new-repo/blob/main/js.png" alt="js" height="50px">
+<img src="https://github.com/Grsn-r/new-repo/blob/main/programacion.png" alt="node js" height="50px">
+</div>
