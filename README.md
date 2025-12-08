@@ -45,7 +45,7 @@
   <br>
   <p>These were two of my first proejcts where I practiced HTML and CSS, the goal was to<br>
   create a resposive model.</p>
-  <p>This web page is meant no be properly seen in different devices, such as<br>
+  <p>This web page is meant to be properly seen in different devices, such as<br>
     tablets, smarphones an desktop computers, to achieve this, the use of media queries<br>
   was the key. I'd like to highlight that on these projects were implemented the use<br>
     of flexbox and grid, this helped me realize the pros and cons for each one,<br>
