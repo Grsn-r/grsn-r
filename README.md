@@ -28,11 +28,39 @@
   <br>
   <p>On this project I used JavaScript, CSS, HTML, API REST and NodeJS to create<br>
   a responsive web app.</p>
+  <p>The use of JS classes and API REST was aessential to complete the project and keep it<br>
+  working the way it was meant to be. I learned the importance and utility of JS clases to maintain<br>
+  a well structured code.</p>
   <img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202025-12-07%20171251.png" alt="ss pjct" width="600px">
 </div>
 <div>
   <p>Take a look</p>
   <a href="https://grsn-r.github.io/web_project_around/src/index.html" target="_blank">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="github repo">
+  </a>
+</div>
+<br>
+<h5>Other projects</h5>
+<div>
+  <br>
+  <p>These were two of my first proejcts where I practiced HTML and CSS, the goal was to<br>
+  create a resposive model.</p>
+  <p>This web page is meant no be properly seen in different devices, such as<br>
+    tablets, smarphones an desktop computers, to achieve this, the use of media queries<br>
+  was the key. I'd like to highlight that on these projects were implemented the use<br>
+    of flexbox and grid, this helped me realize the pros and cons for each one,<br>
+    so now I know better when and where to use them.</p>
+  <img src="https://github.com/Grsn-r/new-repo/blob/main/captura_pr_2.png" alt="pr 2" width="600px">
+  <p>Take a look</p>
+  <a href="https://grsn-r.github.io/web_project_homeland/" target="_blank">
+    <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="github repo">
+  </a>
+  <br>
+  <br>
+  <br>
+  <img src="https://github.com/Grsn-r/new-repo/blob/main/captura_pr_3.png" alt="pr3" width="600px">
+  <p>Take a look</p>
+  <a href="https://grsn-r.github.io/web_project_coffeeshop/" target="_blank">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="github repo">
   </a>
 </div>
