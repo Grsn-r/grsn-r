@@ -15,8 +15,8 @@
     <br>
     My goal is to become a professional software engineer and contribute to create meaningful software from web and mobile apps to videogames.</p>
 </div>
-<h3>Languages and tools</h3>
-<div display="flex">
+<h3 align="center">Languages and tools</h3>
+<div align="center">
 <img src="https://github.com/Grsn-r/new-repo/blob/main/html5.png" alt="html5" height="50px"> 
 <img src="https://github.com/Grsn-r/new-repo/blob/main/css-3.png" alt="css3" height="50px">
 <img src="https://github.com/Grsn-r/new-repo/blob/main/js.png" alt="js" height="50px">
@@ -29,8 +29,8 @@
   <p>On this project I used JavaScript, CSS, HTML, API REST and NodeJS to create<br>
   a responsive web app.</p>
   <p>The use of JS classes and API REST was aessential to complete the project and keep it<br>
-  working the way it was meant to be. I learned the importance and utility of JS clases to maintain<br>
-  a well structured code.</p>
+  working the way it was meant to be. I learned the importance and utility of JS classes to maintain<br>
+  a well-structured codebase.</p>
   <img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202025-12-07%20171251.png" alt="ss pjct" width="600px">
 </div>
 <div>
@@ -43,12 +43,12 @@
 <h5>Other projects</h5>
 <div>
   <br>
-  <p>These were two of my first proejcts where I practiced HTML and CSS, the goal was to<br>
+  <p>These were two of my first proejcts, where I practiced HTML and CSS. The goal was to<br>
   create a resposive model.</p>
   <p>This web page is meant to be properly seen in different devices, such as<br>
-    tablets, smarphones an desktop computers, to achieve this, the use of media queries<br>
+    tablets, smartphones an desktop computers, to achieve this, the use of media queries<br>
   was the key. I'd like to highlight that on these projects were implemented the use<br>
-    of flexbox and grid, this helped me realize the pros and cons for each one,<br>
+    of flexbox and grid, this helped me realize the pros and cons of each one,<br>
     so now I know better when and where to use them.</p>
   <img src="https://github.com/Grsn-r/new-repo/blob/main/captura_pr_2.png" alt="pr 2" width="600px">
   <p>Take a look</p>
