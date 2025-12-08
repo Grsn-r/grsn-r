@@ -3,7 +3,7 @@
   <p>🌱I´m courrently learning **Web development full-stack**</p>
 </div>
 <div align="center">
-  <a href="www.linkedin.com/in/gerson-ruiz-543270389" target="_blank">
+  <a href="www.linkedin.com/in/gerson-ruiz-543270389" target="_blank" rel="noopener no referrer">
     <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="li" height="50px"></a>
 </div>
 <br>
@@ -52,7 +52,7 @@
     so now I know better when and where to use them.</p>
   <img src="https://github.com/Grsn-r/new-repo/blob/main/captura_pr_2.png" alt="pr 2" width="600px">
   <p>Take a look</p>
-  <a href="https://grsn-r.github.io/web_project_homeland/" target="_blank">
+  <a href="https://grsn-r.github.io/web_project_homeland/" target="_blank" rel="noopener no referrer">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="github repo">
   </a>
   <br>
@@ -60,7 +60,7 @@
   <br>
   <img src="https://github.com/Grsn-r/new-repo/blob/main/captura_pr_3.png" alt="pr3" width="600px">
   <p>Take a look</p>
-  <a href="https://grsn-r.github.io/web_project_coffeeshop/" target="_blank">
+  <a href="https://grsn-r.github.io/web_project_coffeeshop/" target="_blank" rel="noopener no referrer">
     <img src="https://img.shields.io/badge/github-repo-blue?logo=github" alt="github repo">
   </a>
 </div>
