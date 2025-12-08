@@ -22,8 +22,12 @@
 <img src="https://github.com/Grsn-r/new-repo/blob/main/js.png" alt="js" height="50px">
 <img src="https://github.com/Grsn-r/new-repo/blob/main/programacion.png" alt="node js" height="50px">
 </div>
+<br>
 <h4>Recent project</h4>
 <div>
+  <br>
+  <p>On this project I used JavaScript, CSS, HTML, API REST and NodeJS to create<br>
+  a responsive web app.</p>
   <img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202025-12-07%20171251.png" alt="ss pjct" width="600px">
 </div>
 <div>
