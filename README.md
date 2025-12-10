@@ -8,14 +8,14 @@
 </div>
 <br>
 <div>
-  <h3>About me</h3>
+  <h2>About me</h2>
   <p>Not long ago, I was working as a technical support expert for automated equipment in clinical laboratories. Eventually, I decided it was time for a new challenge, software egineering has always got my attention, so I decided to start a career as a web developer - and it's one of the best choices I've ever made.<br>
     <br>
     This journey has only begun but I'm already enjoying every moment and learning fascinating things. Already had experience finding effective solutions to different kinds of problems, and that's what a web developer does, in my opinion.<br>
     <br>
     My goal is to become a professional software engineer and contribute to create meaningful software from web and mobile apps to videogames.</p>
 </div>
-<h3 align="center">Languages and tools</h3>
+<h2 align="center">Languages and tools</h2>
 <div align="center">
 <img src="https://github.com/Grsn-r/new-repo/blob/main/html5.png" alt="html5" height="50px"> 
 <img src="https://github.com/Grsn-r/new-repo/blob/main/css-3.png" alt="css3" height="50px">
@@ -23,7 +23,7 @@
 <img src="https://github.com/Grsn-r/new-repo/blob/main/programacion.png" alt="node js" height="50px">
 </div>
 <br>
-<h4>Recent project</h4>
+<h2>Recent project</h2>
 <div>
   <br>
   <p>On this project I used JavaScript, CSS, HTML, API REST and NodeJS to create<br>
@@ -40,7 +40,7 @@
   </a>
 </div>
 <br>
-<h5>Other projects</h5>
+<h2>Other projects</h2>
 <div>
   <br>
   <p>These were two of my first proejcts, where I practiced HTML and CSS. The goal was to<br>
