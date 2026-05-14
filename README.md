@@ -9,8 +9,8 @@
 </div>
 <br>
 <div>
-  <h2>sobre mi</h2>
-  <p>Constantemente busco mejorar mis habilidades y adquirir nuevas aptitudes para ser un desarrollador competenten, busco que mis trabajos tengan personalidad propia</p>
+  <h3 align="center">Sobre mi</h2>
+  <p>Constantemente busco mejorar mis habilidades para ser un desarrollador competente, quiero que mis trabajos tengan personalidad propia y sean el reflejo de mis aptitudes y profesionalismo.</p>
 </div>
 <h2 align="center">Tecnologías</h2>
 <div align="center">
@@ -24,14 +24,13 @@
 <img src="https://github.com/Grsn-r/new-repo/blob/main/typescript.svg" alt="typescript" height="50px" />
 </div>
 <br>
-<h2>Proyectos</h2>
+<h2 align="center">Proyectos</h2>
 <div>
   <br>
-  <strong>Honest Reviewer</strong>
-   <br>
-  <p>En este trabajo quise crear una plataforma sencilla donde usuarios pudieran compartir su opinión sobre sus obras favoritas, además otros usuarios podrían expresar su acuerdo o desacuerdo con comentarios y reacciones. <br>
-Aquí pude poner en práctica; la gestión de datos en MongoDB, diseño de backend seguro y funcional, diseño de SPA sencilla y responsiva para que los usuarios puedan visualizarla cómodamente desde una gran variedad de dispositivos, autenticación a través de JWT empleando localstorage y protección de rutas y contenido a través de verificación en backend y frontend. <br>
-El manejo de imágenes fue algo totalmente nuevo pero me dió la oportunidad de poder trabajar empleando nuevas tecnologías como multer para este caso.</p>
+  <strong>-Honest Reviewer</strong> <br>
+  <p>Frontend desplegado en Vercel, Backend desplegado en Railway. Estas plataformas fueron elegidas por su compatibilidad con las tecnologías empeladas y el tipo de proyecto.</p>
+<p>Aquí pude poner en práctica; la gestión de datos en MongoDB, diseño de backend seguro y ajustado para un manejo óptimo de respuestas (Node, Express, cors), diseño de SPA sencilla e intuitiva empleando los hooks de React más utilizados, esto me ayudó a reafirmar sus utilidades, además el diseño responsivo permite a los usuarios visualizarla cómodamente desde una gran variedad de dispositivos. Manejé la autenticación con JWT empleando localstorage y protección de rutas y contenido a través de verificación en backend y frontend. </p>
+<p>El manejo de imágenes fue algo totalmente nuevo pero me dió la oportunidad de poder trabajar empleando nuevas tecnologías como multer para este caso.</p>
   <img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202026-05-02%20144348.png" alt="ss pjct" width="600px">
 </div>
 <div>
@@ -39,5 +38,12 @@ El manejo de imágenes fue algo totalmente nuevo pero me dió la oportunidad de 
   <a href="https://honest-reviewer.vercel.app/" target="_blank">
    Link a proyecto
   </a>
-</div>
+</div> <br>
+<strong>-Proyect Around</strong>
+<p>Desplegado en una VM GoogleCloud, con certificados SSL empleando certbot apoyandose con nginx también como proxy inverso</p>
+<p>Este proyecto me permitió adquirir experiencia trabajando en solicitudes de frontend a backend. Gracias a esto pude trabajar en un backend que se ajuste con mayor precision a las necesidades de la aplicación web que se estaba desarrollando, además el uso de linter (ESlint) facilitó la escritura de un código más limpio y prolijo, disminuyendo los errores de sintaxis.</p>
+<p>Para el frontend de este proyecto se siguió al pie de la letra el diseño provisto en figma, que especificaba cada detalle del mismo, lo cuál permitió realizar un trabajo más rápido, limpio y sin dejar detalles al azar.</p>
+
+<img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202026-05-14%20105415.png" alt="proyecto around" width="600px" />
+<a href="https://www.chilldev.chickenkiller.com/">Link a proyecto</a>
 
