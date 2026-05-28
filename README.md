@@ -1,7 +1,7 @@
 
 <div  background-color= "#ffa500" align= "center">
 <h1 >Hola 👋, Soy Gerson</h1>
-  <p>Dsarrollador web junior</p>
+  <p>Dsarrollador web jr</p>
 </div>
 <div align="center">
   <a href="https://www.linkedin.com/in/gerson-rsq/" target="_blank" rel="noopener no referrer">
@@ -10,6 +10,7 @@
 <br>
 <div>
   <h3 align="center">Sobre mi</h2>
+  <p>Enfocado en desarrollo full stack empleando MERN stack. Experiencia end esarrollo backend con; Node.js, MongoDb, Express, programación asíncrona, Multer, JWT, JavaScript. He trabajado diseñando SPAs usando React, HTML, CSS, Vite.</p>
   <p>Constantemente busco mejorar mis habilidades para ser un desarrollador competente, quiero que mis trabajos tengan personalidad propia y sean el reflejo de mis aptitudes y profesionalismo.</p>
 </div>
 <h2 align="center">Tecnologías</h2>
@@ -31,13 +32,15 @@
   <p>Frontend desplegado en Vercel, Backend desplegado en Railway. Estas plataformas fueron elegidas por su compatibilidad con las tecnologías empeladas y el tipo de proyecto.</p>
 <p>Aquí pude poner en práctica; la gestión de datos en MongoDB, diseño de backend seguro y ajustado para un manejo óptimo de respuestas (Node, Express, cors), diseño de SPA sencilla e intuitiva empleando los hooks de React más utilizados, esto me ayudó a reafirmar sus utilidades, además el diseño responsivo permite a los usuarios visualizarla cómodamente desde una gran variedad de dispositivos. Manejé la autenticación con JWT empleando localstorage y protección de rutas y contenido a través de verificación en backend y frontend. </p>
 <p>El manejo de imágenes fue algo totalmente nuevo pero me dió la oportunidad de poder trabajar empleando nuevas tecnologías como multer para este caso.</p>
-  <img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202026-05-02%20144348.png" alt="ss pjct" width="600px">
+  <img src="https://res.cloudinary.com/dz8nqscx0/image/upload/Captura_de_pantalla_2026-05-28_080058_ctlpsn.png" alt="ss pjct" width="600px">
 </div>
 <div>
   <p>Pruébalo</p>
   <a href="https://honest-reviewer.vercel.app/" target="_blank">
    Link a proyecto
-  </a>
+  </a> <br/>
+  <a href="https://github.com/Grsn-r/honest_reviewer_backend" target="_blank" >Repo bakend</a> <br/>
+  <a href="https://github.com/Grsn-r/honest_reviewer_frontend" target="_blank" >Repo frontend</a>
 </div> <br>
 <strong>-Proyect Around</strong>
 <p>Desplegado en una VM GoogleCloud, con certificados SSL empleando certbot apoyandose con nginx también como proxy inverso</p>
@@ -45,5 +48,6 @@
 <p>Para el frontend de este proyecto se siguió al pie de la letra el diseño provisto en figma, que especificaba cada detalle del mismo, lo cuál permitió realizar un trabajo más rápido, limpio y sin dejar detalles al azar.</p>
 
 <img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202026-05-14%20105415.png" alt="proyecto around" width="600px" />
-<a href="https://www.chilldev.chickenkiller.com/">Link a proyecto</a>
+<a href="https://www.chilldev.chickenkiller.com/" target="_blank" >Link a proyecto</a> <br/>
+<a href="https://github.com/Grsn-r/web_project_api_full" target="_blank" >Repo full stack</a>
 
