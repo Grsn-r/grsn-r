@@ -15,14 +15,7 @@
 </div>
 <h2 align="center">Tecnologías</h2>
 <div align="center">
-<img src="https://github.com/Grsn-r/new-repo/blob/main/express-js.png" alt="express" height="50px" />
-<img src="https://github.com/Grsn-r/new-repo/blob/main/MongoDb.png" alt="mongo" height="50px" />
-<img src="https://github.com/Grsn-r/new-repo/blob/main/react_icon.png" alt="react_icon" height="50px" />
-<img src="https://github.com/Grsn-r/new-repo/blob/main/html5.png" alt="html5" height="50px"> 
-<img src="https://github.com/Grsn-r/new-repo/blob/main/css-3.png" alt="css3" height="50px">
-<img src="https://github.com/Grsn-r/new-repo/blob/main/js.png" alt="js" height="50px">
-<img src="https://github.com/Grsn-r/new-repo/blob/main/programacion.png" alt="node js" height="50px">
-<img src="https://github.com/Grsn-r/new-repo/blob/main/typescript.svg" alt="typescript" height="50px" />
+JavaScript | Node.js | React | TypeScript | Express | MongoDB | CSS-tailwind
 </div>
 <br>
 <h2 align="center">Proyectos</h2>
