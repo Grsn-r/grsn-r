@@ -1,46 +1,117 @@
+# Hola, soy Gerson 👋
 
-<div  background-color= "#ffa500" align= "center">
-<h1 >Hola 👋, Soy Gerson</h1>
-  <p>Dsarrollador web jr</p>
-</div>
-<div align="center">
-  <a href="https://www.linkedin.com/in/gerson-rsq/" target="_blank" rel="noopener no referrer">
-    <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="li" height="50px"></a>
-</div>
-<br>
-<div>
-  <h3 align="center">Sobre mi</h2>
-  <p>Enfocado en desarrollo full stack empleando MERN stack. Experiencia end esarrollo backend con; Node.js, MongoDb, Express, programación asíncrona, Multer, JWT, JavaScript. He trabajado diseñando SPAs usando React, HTML, CSS, Vite.</p>
-  <p>Constantemente busco mejorar mis habilidades para ser un desarrollador competente, quiero que mis trabajos tengan personalidad propia y sean el reflejo de mis aptitudes y profesionalismo.</p>
-</div>
-<h2 align="center">Tecnologías</h2>
-<div align="center">
-JavaScript | Node.js | React | TypeScript | Express | MongoDB | CSS-tailwind
-</div>
-<br>
-<h2 align="center">Proyectos</h2>
-<div>
-  <br>
-  <strong>-Honest Reviewer</strong> <br>
-  <p>Frontend desplegado en Vercel, Backend desplegado en Railway. Estas plataformas fueron elegidas por su compatibilidad con las tecnologías empeladas y el tipo de proyecto.</p>
-<p>Aquí pude poner en práctica; la gestión de datos en MongoDB, diseño de backend seguro y ajustado para un manejo óptimo de respuestas (Node, Express, cors), diseño de SPA sencilla e intuitiva empleando los hooks de React más utilizados, esto me ayudó a reafirmar sus utilidades, además el diseño responsivo permite a los usuarios visualizarla cómodamente desde una gran variedad de dispositivos. Manejé la autenticación con JWT empleando localstorage y protección de rutas y contenido a través de verificación en backend y frontend. </p>
-<p>El manejo de imágenes fue algo totalmente nuevo pero me dió la oportunidad de poder trabajar empleando nuevas tecnologías como multer para este caso.</p>
-  <img src="https://res.cloudinary.com/dz8nqscx0/image/upload/Captura_de_pantalla_2026-05-28_080058_ctlpsn.png" alt="ss pjct" width="600px">
-</div>
-<div>
-  <p>Pruébalo</p>
-  <a href="https://honest-reviewer.vercel.app/" target="_blank">
-   Link a proyecto
-  </a> <br/>
-  <a href="https://github.com/Grsn-r/honest_reviewer_backend" target="_blank" >Repo bakend</a> <br/>
-  <a href="https://github.com/Grsn-r/honest_reviewer_frontend" target="_blank" >Repo frontend</a>
-</div> <br>
-<strong>-Proyect Around</strong>
-<p>Desplegado en una VM GoogleCloud, con certificados SSL empleando certbot apoyandose con nginx también como proxy inverso</p>
-<p>Este proyecto me permitió adquirir experiencia trabajando en solicitudes de frontend a backend. Gracias a esto pude trabajar en un backend que se ajuste con mayor precision a las necesidades de la aplicación web que se estaba desarrollando, además el uso de linter (ESlint) facilitó la escritura de un código más limpio y prolijo, disminuyendo los errores de sintaxis.</p>
-<p>Para el frontend de este proyecto se siguió al pie de la letra el diseño provisto en figma, que especificaba cada detalle del mismo, lo cuál permitió realizar un trabajo más rápido, limpio y sin dejar detalles al azar.</p>
+### Desarrollador Full Stack JavaScript
 
-<img src="https://github.com/Grsn-r/new-repo/blob/main/Captura%20de%20pantalla%202026-05-14%20105415.png" alt="proyecto around" width="600px" />
-<a href="https://www.chilldev.chickenkiller.com/" target="_blank" >Link a proyecto</a> <br/>
-<a href="https://github.com/Grsn-r/web_project_api_full" target="_blank" >Repo full stack</a>
+Desarrollador enfocado en la creación de aplicaciones web modernas utilizando JavaScript, TypeScript, React, Node.js y MongoDB.
 
+Me interesa construir aplicaciones completas, desde la interfaz de usuario hasta la arquitectura backend, priorizando la experiencia de usuario, la mantenibilidad del código y la implementación de buenas prácticas de desarrollo.
+
+Actualmente continúo fortaleciendo mis conocimientos mediante proyectos personales donde trabajo con autenticación, APIs REST, despliegue de aplicaciones, bases de datos y servicios cloud.
+
+---
+
+## Tecnologías
+
+### Frontend
+
+* React
+* TypeScript
+* JavaScript
+* Vite
+* React Router
+* HTML5
+* CSS3
+* Tailwind CSS
+
+### Backend
+
+* Node.js
+* Express
+* MongoDB
+* JWT
+* Multer
+* REST APIs
+
+### Herramientas
+
+* Git
+* GitHub
+* Nginx
+* Linux
+* Google Cloud VM
+* Railway
+* Vercel
+
+---
+
+# Proyectos Destacados
+
+## Honest Reviewer
+
+Aplicación Full Stack para publicar y consultar reseñas de productos.
+
+### Características
+
+* Autenticación con JWT
+* Protección de rutas
+* Gestión de imágenes mediante Multer
+* API REST con Express
+* Base de datos MongoDB
+* Diseño responsive
+
+### Tecnologías
+
+React · Node.js · Express · MongoDB · JWT · Multer
+
+### Demo
+
+🔗 https://honest-reviewer.vercel.app/
+
+### Repositorios
+
+* Frontend: https://github.com/Grsn-r/honest_reviewer_frontend
+* Backend: https://github.com/Grsn-r/honest_reviewer_backend
+
+---
+
+## Around
+
+Aplicación Full Stack desarrollada siguiendo especificaciones de diseño en Figma.
+
+### Características
+
+* Arquitectura cliente-servidor
+* Consumo de API REST
+* Despliegue en máquina virtual de Google Cloud
+* Certificados SSL con Certbot
+* Nginx como proxy inverso
+* Código estandarizado mediante ESLint
+
+### Tecnologías
+
+React · Node.js · Express · MongoDB · Nginx · Google Cloud
+
+### Demo
+
+🔗 https://www.chilldev.chickenkiller.com/
+
+### Repositorio
+
+* Full Stack: https://github.com/Grsn-r/web_project_api_full
+
+---
+
+## Actualmente aprendiendo
+
+* TypeScript avanzado
+* Patrones de diseño
+* Principios SOLID
+* Testing con Jest y React Testing Library
+* Arquitectura Frontend escalable
+
+---
+
+## Contacto
+
+LinkedIn:
+https://www.linkedin.com/in/gerson-rsq/
