@@ -1,6 +1,8 @@
+<img src="https://res.cloudinary.com/dz8nqscx0/image/upload/v1783047286/ChatGPT_Image_2_jul_2026_08_52_46_p.m._oqyr7p.png" alt="banner" />
+
 # Hola, soy Gerson 👋
 
-### Desarrollador Full Stack JavaScript
+### Desarrollador Full Stack 
 
 Desarrollador enfocado en la creación de aplicaciones web modernas utilizando JavaScript, TypeScript, React, Node.js y MongoDB.
 
@@ -11,26 +13,40 @@ Actualmente continúo fortaleciendo mis conocimientos mediante proyectos persona
 ---
 
 ## Tecnologías
+<table>
+  <tr>
+    <th>
+    Frontend
+  </th>
+  <th>
+    Backend
+  </th>
+  </tr>
+  <tr>
+    <td>
+* React<br>
+* TypeScript <br>
+* JavaScript<br>
+* Vite<br>
+* React Router<br>
+* HTML5<br>
+* CSS3<br>
+* Tailwind CSS<br>
+    </td>
+    <td>
+* Node.js<br>
+* Express<br>
+* MongoDB<br>
+* JWT<br>
+* Multer<br>
+* REST APIs<br>
+    </td>
+  </tr>
 
-### Frontend
+</table>
 
-* React
-* TypeScript
-* JavaScript
-* Vite
-* React Router
-* HTML5
-* CSS3
-* Tailwind CSS
 
-### Backend
 
-* Node.js
-* Express
-* MongoDB
-* JWT
-* Multer
-* REST APIs
 
 ### Herramientas
 
@@ -44,12 +60,12 @@ Actualmente continúo fortaleciendo mis conocimientos mediante proyectos persona
 
 ---
 
-# Proyectos Destacados
+# Proyectos 
 
 ## Honest Reviewer
 
-Aplicación Full Stack para publicar y consultar reseñas de productos.
-
+Aplicación Full Stack para publicar y consultar reseñas de películas y/o series.
+<img src="https://res.cloudinary.com/dz8nqscx0/image/upload/v1783047597/Captura_de_pantalla_2026-05-28_080058_s50iav.png" alt="proyecto R" width=800px />
 ### Características
 
 * Autenticación con JWT
@@ -59,11 +75,11 @@ Aplicación Full Stack para publicar y consultar reseñas de productos.
 * Base de datos MongoDB
 * Diseño responsive
 
-### Tecnologías
+ ## Tecnologías
 
 React · Node.js · Express · MongoDB · JWT · Multer
 
-### Demo
+ Demo
 
 🔗 https://honest-reviewer.vercel.app/
 
@@ -73,10 +89,41 @@ React · Node.js · Express · MongoDB · JWT · Multer
 * Backend: https://github.com/Grsn-r/honest_reviewer_backend
 
 ---
+## DevTree
+
+Proyecto donde desarrolldores pueden compartir sus redes sociales.<br>
+
+<img src="https://res.cloudinary.com/dz8nqscx0/image/upload/v1783050338/Captura_de_pantalla_2026-07-02_214517_atapky.png" alt="devtree" width=800px /> 
+
+## Características
+
+-  Autenticación y autorización mediante JWT.
+-  Creación y edición de perfiles personalizados.
+-  Gestión dinámica de enlaces sociales.
+-  Subida y almacenamiento de imágenes con Cloudinary.
+-  API REST desarrollada con Express y MongoDB.
+-  Sincronización y caché de datos con React Query.
+-  Diseño responsive con Tailwind CSS.
+-  Despliegue en la nube.
+
+## Tecnologías
+
+React Query · Node.js · Cloudinary · MongoDB · Taiwind · TypeScript
+
+## Demo
+🔗 https://grsn-devtree.netlify.app/ 
+
+### Repositorios
+
+* Frontend: https://github.com/Grsn-r/deploy_devtree_frontend
+* Backend: https://github.com/Grsn-r/deploy_devtree_backend
+
+---
 
 ## Around
 
-Aplicación Full Stack desarrollada siguiendo especificaciones de diseño en Figma.
+Aplicación Full Stack desarrollada siguiendo especificaciones de diseño en Figma.<br>
+<img src="https://res.cloudinary.com/dz8nqscx0/image/upload/v1783047890/Captura_de_pantalla_2026-05-14_105415_rlc59x.png" alt="proyecto around" width=800px />
 
 ### Características
 
